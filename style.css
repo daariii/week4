@@ -1,0 +1,338 @@
+#header{
+    position: absolute;
+    width: 1920px;
+    height: 35px;
+    left: 0px;
+    top: 0px;
+}
+
+
+
+#point{
+    position: absolute;
+    width: 3.31px;
+    height: 3.31px;
+    left: 65.34px;
+    top: 14.52px;
+}
+
+#city{
+    position: absolute;
+    width: 160px;
+    height: 12px;
+    left: 77px;
+    top: 12px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 12px;
+    
+    color: #FFFFFF;
+}
+
+#about{
+    position: absolute;
+width: 522px;
+height: 12px;
+left: 699px;
+top: 12px;
+
+/* inter-10 */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+#number{
+    position: absolute;
+    width: 160px;
+    height: 32px;
+    left: 1741px;
+    top: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+#menu{
+    position: absolute;
+    width: 1920px;
+    height: 187px;
+    left: 0px;
+    top: 35px;    
+}
+
+#logo{   
+    position: absolute;
+    width: 118x;
+    height: 100px;
+    left: 901px;
+    top: 53px;
+}
+
+.info{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #FFFFFF;
+}
+
+#OKompanii{
+    position: absolute;
+    width: 87px;
+    height: 12px;
+    left: 311px;
+    top: 12px;
+}
+
+#Partneram{
+    position: absolute;
+    width: 85px;
+    height: 12px;
+    left: 428px;
+    top: 12px;
+}
+
+#Adresa{
+    position: absolute;
+    width: 60px;
+    height: 12px;
+    left: 539px;
+    top: 12px;
+}
+
+#Novosti{
+    position: absolute;
+    width: 67px;
+    height: 12px;
+    left: 628px;
+    top: 12px;
+}
+
+#sergi, #kolca, #brasleti, #zaponki, #podveski, #kolie, 
+#pirsing, #broshi, #izdeliyaSDerevom, #religion, 
+#podarki, #kolekciya, #prochie {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+color: #111111;
+}
+#sergi{
+    position: absolute;
+width: 87px;
+height: 16px;
+left: 63px;
+top: 158px;
+}
+
+#kolca{
+    position: absolute;
+    width: 87px;
+    height: 16px;
+    left: 185px;
+    top: 158px;
+}
+
+#brasleti{
+    position: absolute;
+    width: 87px;
+    height: 16px;
+    left: 311px;
+    top: 158px;
+}
+
+#podveski{
+    position: absolute;
+width: 87px;
+height: 16px;
+left: 456px;
+top: 158px;
+}
+
+#kolie{
+    position: absolute;
+    width: 65px;
+    height: 16px;
+    left: 604px;
+    top: 158px;
+}
+
+#pirsing{
+    position: absolute;
+width: 79px;
+height: 16px;
+left: 717px;
+top: 158px;
+}
+
+#broshi{
+    position: absolute;
+width: 65px;
+height: 16px;
+left: 853px;
+top: 158px;
+}
+#zaponki{
+    position: absolute;
+    width: 79px;
+    height: 16px;
+    left: 972px;
+    top: 158px;
+}
+
+#izdeliyaSDerevom{
+    position: absolute;
+width: 180px;
+height: 16px;
+left: 1109px;
+top: 158px;
+}
+
+#religion{
+    position: absolute;
+width: 135px;
+height: 16px;
+left: 1338px;
+top: 158px;
+}
+
+#podarki{
+    position: absolute;
+    width: 88px;
+    height: 16px;
+    left: 1516px;
+    top: 158px;
+}
+
+#kolekciya{
+    position: absolute;
+width: 98px;
+height: 16px;
+left: 1654px;
+top: 158px;
+}
+
+#prochie{
+    position: absolute;
+    width: 86px;
+    height: 16px;
+    left: 1804px;
+    top: 158px;
+}
+
+.link{text-decoration: none;}
+
+#sale{
+    position: absolute;
+width: 535px;
+height: 75px;
+left: 1171px;
+top: 515px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 34px;
+line-height: 120%;
+/* or 41px */
+
+
+color: #000000;
+}
+
+#button{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 150px;
+    height: 42px;
+    left: 1190px;
+    top: 607px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    color: #ffffff;
+    border: 2px solid #000000;
+    background-color: #000000;
+}
+
+#photo{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 222px;
+    background: url(7589_1.jpg);
+}
+
+#PhotoBackground {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 222px;
+    background: #E0DBD8;
+}
+
+#footer{
+    position: absolute;
+width: 1921px;
+height: 203px;
+left: -1px;
+top: 1023px;
+
+background: #000000;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
+#OKompanii1{
+    position: absolute;
+    width: 103px;
+    height: 12px;
+    left: 63px;
+    top: 1100px;
+}
+
+#Partneram1{
+    position: absolute;
+    width: 103px;
+    height: 12px;
+    left: 181px;
+    top: 1100px;
+}
+
+#Adresa1{
+    position: absolute;
+    width: 103px;
+    height: 12px;
+    left: 297px;
+    top: 1100px;
+}
+
+#News{
+    position: absolute;
+    width: 103px;
+    height: 12px;
+    left: 397px;
+    top: 1100px;
+}
